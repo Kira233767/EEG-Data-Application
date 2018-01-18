@@ -13,3 +13,7 @@ GetKernel <- function(x, y, h){
 }
 
 
+# Function for estimating mean and sample covariance matrices
+Est.MeanCov <- function(Data){
+  
+}
